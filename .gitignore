@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 /_site
+=======
+_site
+.DS_Store
+.jekyll
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+>>>>>>> 11bd4e3cf2ab665d87db3fca1f75eb51a67762cb
